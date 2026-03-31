@@ -1,0 +1,4 @@
+question,option_a,option_b,option_c,option_d,answer,plausibility,diversity,relevance,overall_score,length_std_dev
+What is supervised learning?,Learning with labeled data,Learning without labels,Clustering technique,Reinforcement process,A,0.06937680270871582,1.0,0.10575061552269208,0.3594759057402939,2.29128784747792
+What is blockchain?,Distributed ledger system,Central database,Operating system,Programming language,A,0.11435449721322134,1.0,0.0,0.34574179888528855,3.6996621467371855
+What is overfitting?,Model memorizes training data,Model generalizes well,Data cleaning method,Loss function,B,0.08269036901357156,0.932229239376434,0.0,0.3127449194183588,5.70087712549569
