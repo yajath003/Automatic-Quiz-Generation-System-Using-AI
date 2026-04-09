@@ -17,3 +17,5 @@ Werkzeug
 Jinja2
 click
 psycopg2-binary
+sentence-transformers
+tenacity
